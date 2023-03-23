@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/anggaawijaya/static/css/main.a98df657.css",
+    "main.js": "/github.io/anggaawijaya/static/js/main.8b9f8d12.js",
+    "static/js/787.9331857c.chunk.js": "/github.io/anggaawijaya/static/js/787.9331857c.chunk.js",
+    "static/media/avatar.png": "/github.io/anggaawijaya/static/media/avatar.d4ad6d2299041ae95e33.png",
+    "index.html": "/github.io/anggaawijaya/index.html",
+    "main.a98df657.css.map": "/github.io/anggaawijaya/static/css/main.a98df657.css.map",
+    "main.8b9f8d12.js.map": "/github.io/anggaawijaya/static/js/main.8b9f8d12.js.map",
+    "787.9331857c.chunk.js.map": "/github.io/anggaawijaya/static/js/787.9331857c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98df657.css",
+    "static/js/main.8b9f8d12.js"
+  ]
+}
