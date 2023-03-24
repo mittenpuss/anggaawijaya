@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/anggaawijaya/static/css/main.a98df657.css",
-    "main.js": "/anggaawijaya/static/js/main.3c1e7059.js",
+    "main.css": "/anggaawijaya/static/css/main.77c2c1d8.css",
+    "main.js": "/anggaawijaya/static/js/main.44869bb5.js",
     "static/js/787.9331857c.chunk.js": "/anggaawijaya/static/js/787.9331857c.chunk.js",
+    "static/media/kedas.png": "/anggaawijaya/static/media/kedas.ee4d682fa9bcf72d2b00.png",
+    "static/media/honkai.png": "/anggaawijaya/static/media/honkai.0d9b9d3836ec071a46d4.png",
+    "static/media/nyentana.png": "/anggaawijaya/static/media/nyentana.e577e461420a10e17ebd.png",
     "static/media/avatar.png": "/anggaawijaya/static/media/avatar.d4ad6d2299041ae95e33.png",
+    "static/media/travelU.png": "/anggaawijaya/static/media/travelU.e4bf28c7a8a0fcce4d15.png",
     "index.html": "/anggaawijaya/index.html",
-    "main.a98df657.css.map": "/anggaawijaya/static/css/main.a98df657.css.map",
-    "main.3c1e7059.js.map": "/anggaawijaya/static/js/main.3c1e7059.js.map",
+    "main.77c2c1d8.css.map": "/anggaawijaya/static/css/main.77c2c1d8.css.map",
+    "main.44869bb5.js.map": "/anggaawijaya/static/js/main.44869bb5.js.map",
     "787.9331857c.chunk.js.map": "/anggaawijaya/static/js/787.9331857c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a98df657.css",
-    "static/js/main.3c1e7059.js"
+    "static/css/main.77c2c1d8.css",
+    "static/js/main.44869bb5.js"
   ]
 }
